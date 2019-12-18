@@ -2,3 +2,15 @@ body {
     background-color: white;
     text-align:  center;
 }
+
+div.tooltip {
+
+    position: absolute;
+    padding: 10px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+    text-align: left;
+}
